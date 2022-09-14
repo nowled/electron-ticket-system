@@ -1,13 +1,13 @@
 ## Simple Electron React Boilerplate
 
-This is a simple boilerplate to get up and running with Electron and React. It is a customized version of [Alex Devero's](https://github.com/alexdevero/electron-react-webpack-boilerplate) repo and is used in my Electron course
 
-### Install
 
-#### Clone this repo
+
+
+
 
 ```
-git clone https://github.com/bradtraversy/simple-electron-react.git
+
 ```
 
 #### Install dependencies
